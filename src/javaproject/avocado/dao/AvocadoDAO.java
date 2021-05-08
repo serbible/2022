@@ -3,7 +3,7 @@ package javaproject.avocado.dao;
 public class AvocadoDAO {
 	
 	public AvocadoDAO() {
-		// TODO Auto-generated constructor stub
+		System.out.println("추가");
 	}
 
 }
